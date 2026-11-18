@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-cors-headers
+langgraph
+langchain-ollama
+pydantic
+playwright
+python-dotenv
+pytest
+pytest-django
